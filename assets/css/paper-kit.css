@@ -6805,10 +6805,10 @@ License - nucleoapp.com/license/
 }
 
 .presentation-title {
-  font-size: 8em;
+  font-size: 4em;
   font-weight: 700;
   margin: 0;
-  color: #FFFFFF;
+  color: #9515df;
   background: #fbf8ec;
   background: -moz-linear-gradient(top, #FFFFFF 35%, #4e6773 100%);
   background: -webkit-linear-gradient(top, #FFFFFF 35%, #4e6773 100%);
@@ -6819,8 +6819,8 @@ License - nucleoapp.com/license/
 }
 
 .presentation-subtitle {
-  font-size: 1.7em;
-  color: #FFFFFF;
+  font-size: 1em;
+  color: #2aaad1;
 }
 
 .category-absolute {
@@ -6866,7 +6866,7 @@ License - nucleoapp.com/license/
 .moving-clouds {
   position: absolute;
   z-index: 1;
-  bottom: 0;
+  bottom: 2;
   left: 0;
   width: 250.625em;
   height: 43.75em;
