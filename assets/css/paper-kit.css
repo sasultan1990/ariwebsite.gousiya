@@ -373,6 +373,9 @@
   transform: translate3d(0, 0, 0);
 }
 
+/* .animate__animated.animate__bounce {
+  --animate-duration: 2s; */
+
 /* Slider size and handle placement;
  */
 
@@ -3491,6 +3494,8 @@ input[type="file"]>input[type="button"]::-moz-focus-inner {
 .offline-doc .navbar.navbar-transparent .collapse .navbar-nav .nav-link {
   color: #FFFFFF !important;
 }
+
+
 
 .offline-doc .footer {
   position: absolute;
@@ -6822,6 +6827,11 @@ License - nucleoapp.com/license/
   background: linear-gradient(to bottom, #FFFFFF 35%, #4e6773 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+}
+
+:root {
+  --animate-duration: 800ms;
+  --animate-delay: 0.9s;
 }
 
 .presentation-subtitle {
